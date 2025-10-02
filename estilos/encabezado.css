@@ -1,0 +1,13 @@
+h1 {
+    font-size: 28px;
+    text-align: center;
+    color: #1f618d;
+    border-bottom: 2px solid #1f618d;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #5dade2;
+}
